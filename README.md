@@ -29,7 +29,7 @@
 
 ### 🔗 Let's Connect
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://it.linkedin.com/in/sheshan-mihindukulasuriya-46918733b))
+- 💼 [LinkedIn](https://it.linkedin.com/in/sheshan-mihindukulasuriya-46918733b)
 - 🧑‍💻 [Personal GitHub (@sheshanfernando2021)](https://github.com/sheshanfernando2021)
 - 📧 [Email Me](mailto:your.email@example.com)
 
