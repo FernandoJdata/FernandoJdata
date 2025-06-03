@@ -29,7 +29,7 @@
 
 ### 🔗 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+- 💼 [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://it.linkedin.com/in/sheshan-mihindukulasuriya-46918733b))
 - 🧑‍💻 [Personal GitHub (@sheshanfernando2021)](https://github.com/sheshanfernando2021)
 - 📧 [Email Me](mailto:your.email@example.com)
 
@@ -43,8 +43,4 @@
 - 🛠️ Collaborating with cross-functional teams using Jira and Git
 
 ---
-
-### 💡 Fun Fact
-
-I love blending backend logic with frontend finesse—and I believe great UIs should be as powerful as the APIs behind them. 😄
 
